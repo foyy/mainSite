@@ -3,7 +3,7 @@ module.exports = {
     title: `Hunter Leeves`,
     author: {
       name: `Hunter Leeves`,
-      summary: `What we should know sooner.`,
+      summary: ``,
     },
     description: `idk LOL`,
     siteUrl: `https://www.hunterleeves.com`,

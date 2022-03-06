@@ -32,11 +32,10 @@ const Bio = () => {
 
   // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
 
   return (
     <div className="bio">
-      <div className="flexin">
+      {/* <div className="flexin">
         <StaticImage
           className="bio-avatar"
           layout="fixed"
@@ -53,7 +52,7 @@ const Bio = () => {
             {` `}
           </p>
         )}
-      </div>
+      </div> */}
       <div className="socialIcons">
         <a href="https://www.thebutterbook.com/">
           <FontAwesomeIcon

@@ -1,7 +1,7 @@
 ---
-title: Hello World
+title: Who I Am and Contact
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "I'm hoping to help young people navigate things better. email me at hunterleeves@gmail.com"
 ---
 
 This is my first post on my new fake blog! How exciting!
