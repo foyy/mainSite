@@ -36,7 +36,7 @@ const Bio = () => {
   return (
     <div className="bio">
       <div className="socialIcons">
-        <a href="https://open.spotify.com/show/2p7DMSa7FyFblsuYtArTrJ">
+        <a href="https://podcasts.apple.com/us/podcast/the-butter-brain-podcast/id1613009372">
           <FontAwesomeIcon
             icon={faMicrophone}
             size="4x"
