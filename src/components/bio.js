@@ -35,26 +35,8 @@ const Bio = () => {
 
   return (
     <div className="bio">
-      {/* <div className="flexin">
-        <StaticImage
-          className="bio-avatar"
-          layout="fixed"
-          formats={["auto", "webp", "avif"]}
-          src="../images/hunter.jpeg"
-          width={50}
-          height={50}
-          quality={95}
-          alt="Profile picture"
-        />
-        {author?.name && (
-          <p style={{ alignSelf: "center" }}>
-            {author?.summary || null}
-            {` `}
-          </p>
-        )}
-      </div> */}
       <div className="socialIcons">
-        <a href="https://www.thebutterbook.com/">
+        <a href="https://open.spotify.com/show/2p7DMSa7FyFblsuYtArTrJ">
           <FontAwesomeIcon
             icon={faMicrophone}
             size="4x"

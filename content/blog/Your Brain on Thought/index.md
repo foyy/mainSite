@@ -1,6 +1,6 @@
 ---
 title: Your Brain on Thought
-date: "2022-02-18T22:40:32.169Z"
+date: "2022-03-07T22:40:32.169Z"
 description: Your brain, at no direction of your own, is thinking all day long. And it’s likely making your life much, much, worse than it could be.
 ---
 
