@@ -48,7 +48,7 @@ const Bio = () => {
           <FontAwesomeIcon icon={faTwitch} size="4x" className="socialIcon" />{" "}
         </a>
         <p className="iconText"> Twitch</p>
-        <a href="https://www.tiktok.com/@hunterleeves">
+        <a href="https://www.tiktok.com/@millennialdadart">
           <FontAwesomeIcon icon={faTiktok} size="4x" className="socialIcon" />{" "}
         </a>
         <p className="iconText">TikTok</p>
