@@ -6,13 +6,13 @@ description: Your brain, at no direction of your own, is thinking all day long. 
 
 > “If you can hold your attention, however briefly or occasionally, on the sheer astoshingness of being, and on what a small amount of that being you get–you may experience a palpable shift in how it feels to be here, right now, alive in the flow of time.” - Oliver Burkeman
 
-Something strange happens to me everytime I read, and I’m guessing it affects you too. It might have already started.
+Something strange happens to me every time I read, and I’m guessing it affects you too. It will almost certainly happen while you read this.
 
 At some point, I realize I haven’t been comprehending the last page or so. Even though my eyes were still scanning the words at the same pace, and I was still holding the book in the same way, I have no clue what I just read.
 
 This disconnect between my mind and body is bizarre. My brain has hijacked my attention so completely that it has tricked my body–and my whole sense of self–into thinking I’m doing something I’m not. Without me noticing that anything has changed.
 
-If I were to give some last-dying-breath/number-one-rule/end-all-be-all/golden-nugget piece of advice to anyone, the core of it would be: **_you are doing that same looking-but-not-reading-thing all day long, everyday of your life. But instead of a random book you’re not not understanding, processing, or appreciating, it’s…major cheese incoming… the book of life._**
+If I were to give some last-dying-breath piece of advice to anyone, at the core of it would be this idea: **_you are doing that same looking-but-not-reading-thing all day long, everyday of your life. But instead of a random book you’re not not understanding, processing, or appreciating, it’s (major cheese incoming) the book of life._**
 
 Your brain, without your permission or recognition, is thinking constantly. And it’s likely making your life much, much, worse. You are being spun up in stories, swept up in emotions, and identified with thoughts, all of which are entirely distracting you from the moment before you. You’re “scanning the pages” of life but not actually reading them.
 
@@ -44,7 +44,7 @@ The core of it is a few parts, that when all put together, make for a real unfor
 
 ## You are thinking most of the day
 
-Five years ago I would have thought this idea was wack. Even being prone to absent-mindedness and daydreaming, there’s no way I was thinking all day long. Then one day, when I was teaching high school at a super-ultra-mega academically competitive school, the teachers attended a presentation on stress-reduction techniques we could try with our students, since so many of them were stressed constantly.
+Five years ago I would have thought this idea was wack. Even being prone to absent-mindedness and daydreaming, there’s no way I was thinking all day long. Then one day, when I was teaching high school at a mega academically competitive school, the teachers attended a presentation on stress-reduction techniques we could try with our students, since so many of them were constantly stressed.
 
 The presenters explained that focusing on an object for a few minutes and pausing our thoughts while doing is a helpful exercise to reduce stress and manage anxiety. They had the teachers try and simply notice what our breath felt like for a couple of minutes, and not to think during that time.
 

@@ -5,7 +5,7 @@ module.exports = {
       name: `Hunter Leeves`,
       summary: ``,
     },
-    description: `idk LOL`,
+    description: `What I Wish I'd Known Sooner`,
     siteUrl: `https://www.hunterleeves.com`,
     social: {
       twitter: `hunterleeves`,
