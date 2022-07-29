@@ -22,10 +22,14 @@ And before all that I was a high school English teacher! Which I also loved doin
 
 But most of all I'm a dad to a wonderful two year old--Holden--who gets cooler everyday. And I'm a husband to a wonderful lady. And I have two Boston Terriers who are insane and awesome.
 
-I'm really into reading and music and videogames and mindfulness as well. I'm always down to chat about any of those, and do at the links below.
+I'm really into reading and music and videogames and mindfulness as well.
+
+If you're interested in getting in touch about my experience and skill-set, the best way to reach me is the phone number or email below:
 
 Hope you have a good day,
 
-Hunter Leeves ------
-512-522-3445 ------
+Hunter Leeves
+
+512-522-3445
+
 hunterleevescodes@gmail.com
